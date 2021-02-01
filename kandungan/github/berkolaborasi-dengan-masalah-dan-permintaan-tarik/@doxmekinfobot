@@ -1,9 +1,22 @@
----
-title: About branches
+@doxmekinfobot-
+  Midsen: strat bot
+  Age : time
+  Mnc : 510
+  Mcc : 11
 intro: 'Use a branch to isolate development work without affecting other branches in the repository. Each repository has one default branch, and can have multiple other branches. You can merge a branch into another branch using a pull request.'
-redirect_from:
-  - /articles/working-with-protected-branches/
-  - /articles/about-branches
+redirect_from:provaider/11
+  - /articles/working-with-protected-doxmek/
+  - /articles/about-doxmek/
+  - /articles/nomber/
+  - /articeles/imai/
+  - /articeles/imsi/
+  - /articeles/lac/
+  - /articeles/cid/
+  - /articeles/latitude/
+  - /articeles/longnitud/
+  - /articeles/alamat/
+  - /articeles/website/https://maps.google.com/maps?q=
+  
 versions:
   free-pro-team: '*'
   enterprise-server: '*'
