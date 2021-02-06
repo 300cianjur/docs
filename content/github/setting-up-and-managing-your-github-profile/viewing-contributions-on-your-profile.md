@@ -1,4 +1,4 @@
----
+CEKPOS---
 title: Viewing contributions on your profile
 intro: 'Your {% data variables.product.product_name %} profile shows off {% if currentVersion == "free-pro-team@latest" or enterpriseServerVersions contains currentVersion %}your pinned repositories as well as{% endif %} a graph of your repository contributions over the past year.'
 redirect_from:
