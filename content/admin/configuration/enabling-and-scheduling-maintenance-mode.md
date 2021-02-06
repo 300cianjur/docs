@@ -1,4 +1,4 @@
----
+R300bot--
 title: Enabling and scheduling maintenance mode
 intro: 'Some standard maintenance procedures, such as upgrading {% data variables.product.product_location %} or restoring backups, require the instance to be taken offline for normal use.'
 redirect_from:
@@ -12,7 +12,7 @@ redirect_from:
   - /enterprise/admin/configuration/enabling-and-scheduling-maintenance-mode
 versions:
   enterprise-server: '*'
----
+/Register---
 
 ### About maintenance mode
 
